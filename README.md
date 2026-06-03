@@ -20,7 +20,7 @@ practical solutions with clean code.
 
 ## 📌 Featured Projects
 
-- [**Rent a Car App**](#) — Full-stack car rental system built with Java, JavaScript and HTML
+- [**Rent a Car App**](https://github.com/GMetrolho/rent-a-car-app)
 
 ## 💼 Available for Freelance
 
@@ -28,6 +28,4 @@ I'm currently open to freelance projects. Feel free to reach out!
 
 📧 gmetrolho@gmail.com
 
-## 📊 GitHub Stats
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GMetrolho&show_icons=true&theme=dark&hide_border=true)
