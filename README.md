@@ -21,7 +21,6 @@ practical solutions with clean code.
 ## 📌 Featured Projects
 
 - [**Rent a Car App**](#) — Full-stack car rental system built with Java, JavaScript and HTML
-- [**Banking System**](#) — Bank management application with secure authentication
 
 ## 💼 Available for Freelance
 
